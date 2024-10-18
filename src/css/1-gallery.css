@@ -1,3 +1,5 @@
+@import './btn-back.css';
+@import 'simplelightbox/dist/simple-lightbox.min.css';
 /** Reset */
 
 * {
@@ -26,6 +28,12 @@ h6 {
 
 img {
     display: block;
+}
+
+/* Common */
+
+body {
+    font-family: "Montserrat", serif;
 }
 
 /*! Gallery */
